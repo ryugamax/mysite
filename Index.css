@@ -37,7 +37,7 @@ a:hover{
 /*image formatting*/
 .topcloud{ width:50px;
 			position:absolute;
-			Right:250px;
+			Right:400px;
 			top:30px;
 			}
 .bottomcloud{width:100px;
@@ -53,8 +53,8 @@ a:hover{
 .avatar{position: relative;
           top:20px;
           width:80px;}
-.games{width:5%;float: right; margin-left:5px;}
-.Computer{width:5%; float: left;margin-right:5px;}
+.games{width:80px;float: right; margin-left:5px;}
+.Computer{width:80px; float: left;margin-right:5px;}
 /*container formatting*/
 .skill{
         width: 90%;
