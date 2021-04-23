@@ -37,7 +37,7 @@ a:hover{
 /*image formatting*/
 .topcloud{ width:50px;
 			position:absolute;
-			Right:350px;
+			Right:300px;
 			top:30px;
 			}
 .bottomcloud{width:100px;
@@ -58,7 +58,7 @@ a:hover{
 /*container formatting*/
 .skill{
         width: 90%;
-  margin: 0 20px 0 20px;
+  margin: 0 50px 0 50px;
   text-align: left;
 }
 .intro{
