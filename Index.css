@@ -37,12 +37,12 @@ a:hover{
 /*image formatting*/
 .topcloud{ width:50px;
 			position:absolute;
-			left:250px;
+			Right:250px;
 			top:30px;
 			}
 .bottomcloud{width:100px;
 			position:absolute;
-			left:40px;
+			left:250px;
 			top:50px;
 }
 .mountain{
@@ -53,8 +53,8 @@ a:hover{
 .avatar{position: relative;
           top:20px;
           width:80px;}
-.games{width:25%;float: right; margin-left:5px;}
-.Computer{width:25%; float: left;margin-right:5px;}
+.games{width:5%;float: right; margin-left:5px;}
+.Computer{width:5%; float: left;margin-right:5px;}
 /*container formatting*/
 .skill{
         width: 90%;
